@@ -1,8 +1,13 @@
 
-FEEL FREE TO USE / MODIFY THE CODE
-JUST MENTION MY NAME AS THE CONTRIBUTOR FOR THIS CODE
-ALONG WITH THE GITHUB LINK TO THIS CODE
--------- (THANKS) ----------
+************ BEST VIEWED IN RAW MODE ******************
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+| FEEL FREE TO USE / MODIFY THE CODE			|
+| JUST MENTION MY NAME AS THE CONTRIBUTOR FOR THIS CODE	|
+| ALONG WITH THE GITHUB LINK TO THIS CODE 		|
+|  -------- (THANKS) ----------				|
+|							|
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 
 ==== Prerequisites ====
@@ -23,7 +28,7 @@ ALONG WITH THE GITHUB LINK TO THIS CODE
 -- Enter the number of times you want the code to generate a random pattern based on the regular expression entered
 
 
-==== Use case =====
+==== Use case ====
 (BRUTE FORCE URL SCAN)
 ----------------------
 
