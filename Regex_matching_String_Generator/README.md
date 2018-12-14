@@ -1,11 +1,8 @@
 
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-| FEEL FREE TO USE / MODIFY THE CODE			|
-| JUST MENTION MY NAME AS THE CONTRIBUTOR FOR THIS CODE	|
-| ALONG WITH THE GITHUB LINK TO THIS CODE 		|
-|  -------- (THANKS) ----------				|
-|							|
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+FEEL FREE TO USE / MODIFY THE CODE
+JUST MENTION MY NAME AS THE CONTRIBUTOR FOR THIS CODE
+ALONG WITH THE GITHUB LINK TO THIS CODE
+-------- (THANKS) ----------
 
 
 ==== Prerequisites ====
