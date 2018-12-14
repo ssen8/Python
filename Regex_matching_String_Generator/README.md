@@ -26,7 +26,7 @@
 -- Enter the number of times you want the code to generate a random pattern based on the regular expression entered
 
 
-==== Use case ====
+==== Use case =====
 (BRUTE FORCE URL SCAN)
 ----------------------
 
